@@ -1,4 +1,4 @@
-# C++ Simple Serializer and Deserializer
+# C++ Serializer and Deserializer
 
 A minimal header-only library for fast, reliable text-based serialization of `uint64_t` and `bool`, featuring explicit error handling and zero external dependencies.
 
